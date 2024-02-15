@@ -1,2 +1,1 @@
-PROJECT: AI 파일럿 
-TEAM: 테트리스
+AI 파일럿 - 테트리스
